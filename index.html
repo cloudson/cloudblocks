@@ -23,15 +23,17 @@
     <script type="text/javascript" src="./public/js/sprintf-0.6.js"></script>
     <script type="text/javascript" src="./public/js/jsGET.js"></script>
     <script type="text/javascript" src="./public/js/jqconsole.min.js"></script>
-    <link href="./public/css/styles.css" rel="stylesheet" type="text/css" />
+    <!-- <link href="./public/css/styles.css" rel="stylesheet" type="text/css" /> -->
     <link href="./public/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="./public/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
     <link href="./public/css/ansi.css" rel="stylesheet" type="text/css" />
 
     <!-- ACE -->
-    <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
-   <!-- <script src="./ace/theme/crimson_editor.js" type="text/javascript" charset="utf-8"></script>
-    <script src="./ace/mode/c_cpp.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.6/ace.js" type="text/javascript" charset="utf-8"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.6/theme-crimson_editor.js
+
+   " type="text/javascript" charset="utf-8"></script>
+   <!--<script src="./ace/mode/c_cpp.js" type="text/javascript" charset="utf-8"></script>
     -->
     <style type="text/css" media="screen">
     body {
@@ -59,7 +61,7 @@
         right: 0;
         display:block;
         width: 600px;
-
+        height: 400px;
     }
 
     #img-loader {
@@ -224,16 +226,17 @@ int main()
         var jqconsole = $('#console').jqconsole('Welcome to CloudBlocks\n----------------------\n', '> ');
         $('#btn-run').on('click',function(){
             var source = editor.getValue();
-            
+            console.log(source)
             $('#img-loader').show();
             $.ajax({
-                url: "http://localhost/tcc/cloudblocks/router.php",
+                url: "http://localhost:4003/",
                 data: {
                    'source' : source
                 },
                 type : "POST",
                 dataType: "json",
                 success: function(data, textStatus, xhr){
+                    console.log(data);
                     $('#img-loader').hide();
                     jqconsole.Write("Compilando", 'jqconsole-output');
                     var interval = window.setInterval(function(){

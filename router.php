@@ -2,12 +2,14 @@
 
 // Hello! I'm the router php, i will get the request ajax and call the compiler that 
 // will convert a program C to Javascript! It's awesome! 
+error_reporting(E_ALL);
 
 define('CLOUD_PARSER_ERROR', 1);
 define('CLOUD_SEMANTIC_ERROR', 2);
 
 
 $source = $_POST['source'];
+
 
 $output = '';
 $return = 0;
@@ -20,7 +22,7 @@ $fp = fopen(__DIR__.'/sources/'.$filename.'.cloud', 'w+');
 fwrite($fp, $source);
 fclose($fp);
 
-exec(__DIR__.'/compiler/cloudblocks ./sources/'.$filename.'.cloud', $output, $return);
+exec(__DIR__.'/compiler/cloudblocks '. __DIR__.'/sources/'.$filename.'.cloud', $output, $return);
 
 $to_browser = array();
 
@@ -42,4 +44,7 @@ switch ($return) {
 	break; 
 }
 
-echo json_encode($to_browser); exit;
+header("Access-Control-Allow-Origin: *");
+header('Content-Type: Application/json');
+
+echo json_encode($to_browser);  exit(0);
