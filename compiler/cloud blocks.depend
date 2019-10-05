@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1317568998 source:/home/cloud/sources/cloud_blocks/compiler/main.cpp
+	<iostream>
+
+1354832603 source:/var/www/cloudblocks/compiler/main.cpp
+	<iostream>
+	"tokens.h"
+	"scanner.h"
+
+1332101588 /var/www/cloudblocks/compiler/tokens.h
+
+1356039513 /var/www/cloudblocks/compiler/scanner.h
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<inttypes.h>
+	<unistd.h>
+

@@ -1,0 +1,17 @@
+#include "stdio.h"
+
+struct foo{
+	foo b;
+	int c;
+}; 
+
+int number = 3;
+
+void a() {
+	foo a;
+}
+
+void main(){
+	int a =  2;
+	printf("%d",2);
+}

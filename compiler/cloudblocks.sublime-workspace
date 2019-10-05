@@ -1,0 +1,1227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"typ",
+				"type_struct"
+			],
+			[
+				"retur",
+				"return_struct"
+			],
+			[
+				"get",
+				"get_lexeme"
+			],
+			[
+				"att",
+				"attr_id"
+			],
+			[
+				"attrex",
+				"attr_expr_right"
+			],
+			[
+				"symb",
+				"Symbol_func"
+			],
+			[
+				"ty",
+				"type_struct"
+			],
+			[
+				"type",
+				"type_primitive"
+			],
+			[
+				"Ex",
+				"attr_expr"
+			],
+			[
+				"attr_e",
+				"attr_expr_left"
+			],
+			[
+				"lexe",
+				"lexeme"
+			],
+			[
+				"var",
+				"var_left"
+			],
+			[
+				"var_",
+				"var_left"
+			],
+			[
+				"attr",
+				"attr_next"
+			],
+			[
+				"vect",
+				"vector2"
+			],
+			[
+				"attr_",
+				"attr_expr"
+			],
+			[
+				"node_ex",
+				"node_expr_list"
+			],
+			[
+				"get_t",
+				"get_token_name"
+			],
+			[
+				"len",
+				"attr_length"
+			],
+			[
+				"Sym",
+				"Symbol_var"
+			],
+			[
+				"sym",
+				"Symbol_var"
+			],
+			[
+				"para",
+				"attr_param_list"
+			],
+			[
+				"ret",
+				"return_primitive"
+			],
+			[
+				"re",
+				"return_struct"
+			],
+			[
+				"retr",
+				"return_struct"
+			],
+			[
+				"Err",
+				"error"
+			],
+			[
+				"tye",
+				"type_struct"
+			],
+			[
+				"attr_ex",
+				"attr_expr"
+			],
+			[
+				"return",
+				"return_struct"
+			],
+			[
+				"tab",
+				"table_struct"
+			],
+			[
+				"es",
+				"else"
+			],
+			[
+				"at",
+				"attr_expr"
+			],
+			[
+				"curre",
+				"current_func"
+			],
+			[
+				"Symb",
+				"Symbol_func"
+			],
+			[
+				"attr_var",
+				"attr_var_list"
+			],
+			[
+				"nex",
+				"attr_next"
+			],
+			[
+				"ex",
+				"attr_expr_1"
+			],
+			[
+				"attrn",
+				"attr_name"
+			],
+			[
+				"node_name",
+				"node_name_decl"
+			],
+			[
+				"S",
+				"Symbol_var"
+			],
+			[
+				"Symbo",
+				"Symbol_var"
+			],
+			[
+				"get_",
+				"get_struct"
+			],
+			[
+				"le",
+				"lexeme_type_left"
+			],
+			[
+				"name",
+				"name_lexeme"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"call",
+				"call_lexeme"
+			],
+			[
+				"Attr",
+				"attr_expr"
+			],
+			[
+				"th",
+				"throw_semantic"
+			],
+			[
+				"Er",
+				"error"
+			],
+			[
+				"sy",
+				"Symbol_func"
+			],
+			[
+				"nu",
+				"num_params"
+			],
+			[
+				"lexeme",
+				"lexeme"
+			],
+			[
+				"attr_s",
+				"attr_struct"
+			],
+			[
+				"cr",
+				"current_func"
+			],
+			[
+				"node_re",
+				"node_return"
+			],
+			[
+				"attr_st",
+				"attr_stmt_list"
+			],
+			[
+				"error",
+				"error"
+			],
+			[
+				"attr_expr",
+				"attr_expr_right"
+			],
+			[
+				"node_ca",
+				"node_call"
+			],
+			[
+				"lex",
+				"lexeme_right"
+			],
+			[
+				"symbol",
+				"Symbol_var"
+			],
+			[
+				"str_",
+				"str_left"
+			],
+			[
+				"E_",
+				"E_UNDECLARED_VAR"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"seman",
+				"throw_semantic"
+			],
+			[
+				"current",
+				"current_func"
+			],
+			[
+				"cur",
+				"current_func"
+			],
+			[
+				"SYNTA",
+				"syntax_ok"
+			],
+			[
+				"synta",
+				"syntax_ok"
+			],
+			[
+				"p",
+				"printf	printf …"
+			],
+			[
+				"de",
+				"declaring"
+			],
+			[
+				"E",
+				"E_REDECLARING_VAR"
+			],
+			[
+				"table",
+				"table_func"
+			],
+			[
+				"sco",
+				"scopes"
+			],
+			[
+				"Seman",
+				"SemanticAnalyser"
+			],
+			[
+				"Symbol",
+				"Symbol_func"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"new",
+				"new_scope"
+			],
+			[
+				"sc",
+				"scopes"
+			],
+			[
+				"Symbol_",
+				"Symbol_id"
+			],
+			[
+				"N",
+				"node"
+			],
+			[
+				"info",
+				"info1"
+			],
+			[
+				"Sema",
+				"SemanticAnalyser"
+			],
+			[
+				"Vis",
+				"Visitor_semantic"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"eat",
+				"eat_or_skip"
+			],
+			[
+				"ge",
+				"get_lexeme"
+			],
+			[
+				"node",
+				"node_do"
+			],
+			[
+				"get_c",
+				"get_current_line"
+			],
+			[
+				"symol",
+				"Symbol_id"
+			],
+			[
+				"g_Str",
+				"g_struct_fields"
+			],
+			[
+				"g_str",
+				"g_struct_fields"
+			],
+			[
+				"synch_g_str",
+				"synch_g_struct3"
+			],
+			[
+				"T_F",
+				"T_FLOAT"
+			],
+			[
+				"T_STR",
+				"T_STRUCT"
+			],
+			[
+				"synch",
+				"synch_g_primary"
+			],
+			[
+				"st",
+				"stdout"
+			],
+			[
+				"attr_p",
+				"attr_pointer_level"
+			],
+			[
+				"T_BRA",
+				"T_BRACKET_R"
+			],
+			[
+				"s",
+				"symbol2"
+			],
+			[
+				"symbo",
+				"Symbol_id"
+			],
+			[
+				"g_Ex",
+				"g_expr"
+			],
+			[
+				"stmt",
+				"stmt_list"
+			],
+			[
+				"g_for",
+				"g_for_int_inc"
+			],
+			[
+				"T_CO",
+				"T_COMMA"
+			],
+			[
+				"node_expr",
+				"node_expr_list"
+			],
+			[
+				"T_I",
+				"T_INT"
+			],
+			[
+				"node_op",
+				"node_op_addition"
+			],
+			[
+				"T_S",
+				"T_SUB"
+			],
+			[
+				"T_",
+				"T_INC"
+			],
+			[
+				"node_stt",
+				"node_stmt_list"
+			],
+			[
+				"node_st",
+				"node_stmt"
+			],
+			[
+				"geT_cur",
+				"get_current_line"
+			],
+			[
+				"stm",
+				"stmt_list"
+			],
+			[
+				"node_pr",
+				"node_primitive"
+			],
+			[
+				"geT_c",
+				"get_current_line"
+			],
+			[
+				"node_",
+				"node_expr_list"
+			],
+			[
+				"node_Ex",
+				"node_expr_list"
+			],
+			[
+				"node_exp",
+				"node_expr_list"
+			],
+			[
+				"expr",
+				"expr_list"
+			],
+			[
+				"node_t",
+				"node_type"
+			],
+			[
+				"node_stmt",
+				"node_stmt_list"
+			],
+			[
+				"node_stm",
+				"node_stmt_list"
+			],
+			[
+				"Getc",
+				"get_current_token"
+			],
+			[
+				"ep",
+				"expr2"
+			],
+			[
+				"getc",
+				"get_current_token"
+			],
+			[
+				"get_current_",
+				"get_current_line"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "teste.cloud",
+			"settings":
+			{
+				"buffer_size": 116,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "semantic.cpp",
+			"settings":
+			{
+				"buffer_size": 17644,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "parser.cpp",
+			"settings":
+			{
+				"buffer_size": 30512,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ast.cpp",
+			"settings":
+			{
+				"buffer_size": 14368,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ast.h",
+			"settings":
+			{
+				"buffer_size": 11709,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "error.hpp",
+			"settings":
+			{
+				"buffer_size": 1005,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "error.cpp",
+			"settings":
+			{
+				"buffer_size": 6301,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "semantic.hpp",
+			"settings":
+			{
+				"buffer_size": 2482,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "symbols_tables.h",
+			"settings":
+			{
+				"buffer_size": 3065,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "symbols_tables.cpp",
+			"settings":
+			{
+				"buffer_size": 4663,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"set c",
+				"Set Syntax: C++"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/tcc/cloudblocks/compiler/visitor.cpp",
+		"/var/www/tcc/cloudblocks/compiler/ast.h",
+		"/var/www/tcc/cloudblocks/compiler/ast.cpp",
+		"/var/www/tcc/cloudblocks/compiler/error.cpp",
+		"/var/www/tcc/cloudblocks/compiler/main.cpp",
+		"/var/www/tcc/cloudblocks/compiler/parser.cpp",
+		"/var/www/tcc/cloudblocks/compiler/symbols_tables.cpp",
+		"/var/www/tcc/cloudblocks/compiler/error.hpp",
+		"/var/www/tcc/cloudblocks/compiler/helper.cpp",
+		"/var/www/tcc/cloudblocks/compiler/semantic.hpp",
+		"/var/www/tcc/cloudblocks/compiler/semantic.cpp",
+		"/var/www/tcc/cloudblocks/compiler/teste.cloud",
+		"/var/www/tcc/cloudblocks/compiler/symbols_tables.h",
+		"/var/www/tcc/cloudblocks/compiler/make",
+		"/var/www/tcc/cloudblocks/compiler/parser.hpp",
+		"/var/www/bocejo/error.c",
+		"/var/www/bocejo/semantic.c",
+		"/var/www/tcc/cloudblocks/compiler/visitor.h",
+		"/var/www/tcc/cloudblocks/compiler/scanner.lex",
+		"/var/www/bocejo/visitors.cpp",
+		"/var/www/bocejo/abstract_syntax_tree.h",
+		"/home/cloudson/.config/sublime-text-2/Packages/User/C++.sublime-settings",
+		"/var/www/bocejo/parser.h",
+		"/var/www/bocejo/parser.c",
+		"/var/www/tcc/cloudblocks/compiler/helper.hpp",
+		"/var/www/cloudblocks/compiler/symbols_tables.cpp",
+		"/var/www/cloudblocks/compiler/teste.cloud",
+		"/var/www/cloudblocks/compiler/main.cpp",
+		"/var/www/cloudblocks/compiler/symbols_tables.h",
+		"/var/www/cloudblocks/compiler/error.cpp",
+		"/var/www/cloudblocks/compiler/error.hpp",
+		"/var/www/DataTables/src/Saturno/README.md",
+		"/var/www/DataTables/src/Saturno/composer.json",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Tests/bootstrap.php",
+		"/var/www/tstdata/DataTablesBundle/Tests/bootstrap.php",
+		"/var/www/DataTables/composer.json",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Resources/doc/1-basic_usage.md",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Resources/doc/2-entity_with_aggregate.md",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Resources/doc/3-using_ajax.md",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Resources/doc/index.md",
+		"/var/www/DataTables/src/Saturno/.travis.yml",
+		"/var/www/DataTables/.travis.yml",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Resources/doc/roadmap.md",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Resources/doc/index,md",
+		"/var/www/DataTables/src/Acme/Example/DataTablesBundle/Controller/DefaultController.php",
+		"/var/www/DataTables/src/Acme/Example/DataTablesBundle/DataTable/ProductAjaxTable.php",
+		"/var/www/DataTables/src/Acme/Example/DataTablesBundle/Repository/ProductRepository.php",
+		"/var/www/DataTables/src/Acme/Example/DataTablesBundle/Repository/UserRepository.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Traits/Repository.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/HTTP/Request.php",
+		"/var/www/viva/src/Aprimorar/UsuarioBundle/Repository/UsuarioRepository.php",
+		"/var/www/viva/src/Aprimorar/Viva/FundoBundle/Repository/EventoRepository.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Tests/HTTP/RequestTest.php",
+		"/var/www/viva/src/Aprimorar/Viva/FundoBundle/Repository/FundoRepository.php",
+		"/var/www/DataTables/src/Acme/Example/DataTablesBundle/Entity/Product.php",
+		"/var/www/DataTables/src/Acme/Example/DataTablesBundle/Entity/User.php",
+		"/var/www/DataTables/src/Saturno/Bridge/Table/GridResponse.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/HTTP/Response.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Tests/Element/TableTest.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Element/Table.php",
+		"/var/www/DataTables/src/Saturno/Bridge/Table/GridRequest.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Traits/Repostiory.php",
+		"/var/www/DataTables/src/Acme/Example/DataTablesBundle/DataTable/UserAjaxTable.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Tests/Fixtures/UserOptionsTable.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Tests/Fixtures/InvalidProductTable.php",
+		"/var/www/viva/src/Aprimorar/UsuarioBundle/Form/UsuarioType.php",
+		"/var/www/DataTables/src/Acme/Example/DataTablesBundle/DataTable/ProductTable.php",
+		"/var/www/DataTables/src/Saturno/Bridge/Table/Table.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Resources/views/Skeleton/javascript.html.twig",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Tests/Fixtures/UserAjaxTable.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Tests/Fixtures/ProductTable.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Tests/Fixtures/UserTable.php",
+		"/var/www/DataTables/src/Saturno/DataTablesBundle/Tests/Manager/TableFactoryTest.php",
+		"/var/www/viva/src/Aprimorar/UsuarioBundle/Entity/Usuario.php",
+		"/var/www/DataTables/app/config/parameters.yml",
+		"/var/www/Saturno/sf_tests/src/Acme/DemoBundle/Controller/DemoController.php",
+		"/var/www/Saturno/sf_tests/src/Acme/DemoBundle/Controller/WelcomeController.php",
+		"/var/www/Saturno/DataTables_symfony/composer.json",
+		"/var/www/Saturno/sf_tests/app/config/routing.yml",
+		"/var/www/cloudblocks/compiler/parser.cpp",
+		"/var/www/cloudblocks/compiler/parser.hpp",
+		"/var/www/cloudblocks/compiler/tokens.h",
+		"/var/www/cloudblocks/compiler/scanner.h",
+		"/var/www/cloudblocks/compiler/scanner.lex"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"type_struct",
+			"attr_expr",
+			"get_current_line()",
+			"attr_type",
+			"node_type*",
+			"attr_fields",
+			"attr_var_list",
+			"attr_type",
+			"attr_struct_list",
+			"node_var_list",
+			"node_type",
+			");",
+			"void visit",
+			"str",
+			"type_lexeme",
+			"writable",
+			"str",
+			"node_call*",
+			"typeid",
+			"node_func*",
+			"call",
+			"var",
+			"lexeme",
+			"lexeme_type_struct",
+			"str",
+			"in line",
+			"str",
+			"node_attr_fields",
+			"get(",
+			"Symbol_class",
+			"( ",
+			"Symbol_method",
+			"a",
+			"Symbol_variable",
+			"Semantic",
+			"Visitor_semantic",
+			"( ",
+			"Visitor_semantic::visit",
+			";",
+			"void visit",
+			"type",
+			"node_type",
+			" node_type",
+			"node_ty",
+			"g_struct_fields",
+			"node_struc",
+			"node_struct",
+			" node_struct",
+			"node_assign",
+			"sematic",
+			"node_ass",
+			"node_for",
+			"node_name",
+			"node_for",
+			"node_Expr_list",
+			"node_expr_list",
+			"node_ty",
+			"node_primitive",
+			"Symbol*",
+			"table_id->print_symbol",
+			"attr_var_list",
+			"get_token_name(key);",
+			"attr_method_list",
+			"GET_token_name",
+			"node_func_list",
+			"// void accept",
+			"attr_nex",
+			"attr_method_list",
+			"void accept",
+			"node_func",
+			"node_func_list",
+			";\n",
+			"node_func_list",
+			");\n",
+			"case T_PR",
+			"g_rvar",
+			"g_id",
+			"decl_id",
+			"expr_(",
+			"T_END",
+			"decl_id()",
+			"g_scope",
+			"g_id",
+			"g_expr_list()",
+			"g_expr_list(){",
+			"g_array_access",
+			"g_array_access_optional",
+			"{T_ID",
+			"306",
+			"T_ID",
+			"syntax_err",
+			"syntax_Err",
+			"irst",
+			"syntax_error",
+			"g_expr_list",
+			"());\n",
+			"ErrorManager",
+			" g_expr(",
+			"T_MINUS",
+			"T_PLUS",
+			"+",
+			"g_main\"",
+			"stmt_list",
+			"Parser::",
+			"(){}",
+			"();",
+			" Parser::g_include_int();",
+			"void",
+			"();\n",
+			"Parser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"T_SUB",
+			"T_ADD",
+			"",
+			"();",
+			"(){}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "teste.cloud",
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "semantic.cpp",
+					"settings":
+					{
+						"buffer_size": 17644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7527,
+								7527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3115.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "parser.cpp",
+					"settings":
+					{
+						"buffer_size": 30512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24763,
+								24763
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 14400.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ast.cpp",
+					"settings":
+					{
+						"buffer_size": 14368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1872,
+								1872
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1082.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ast.h",
+					"settings":
+					{
+						"buffer_size": 11709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3671,
+								3671
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2202.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "error.hpp",
+					"settings":
+					{
+						"buffer_size": 1005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "error.cpp",
+					"settings":
+					{
+						"buffer_size": 6301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3347,
+								3347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1197.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "semantic.hpp",
+					"settings":
+					{
+						"buffer_size": 2482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "symbols_tables.h",
+					"settings":
+					{
+						"buffer_size": 3065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "symbols_tables.cpp",
+					"settings":
+					{
+						"buffer_size": 4663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								956,
+								956
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 456.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"re",
+				"/var/www/DataTables/src/Saturno/DataTablesBundle/HTTP/Request.php"
+			],
+			[
+				"usuari",
+				"/var/www/DataTables/src/Saturno/DataTablesBundle/Traits/Repository.php"
+			],
+			[
+				"de",
+				"/var/www/DataTables/src/Acme/Example/DataTablesBundle/Controller/DefaultController.php"
+			],
+			[
+				"error",
+				"/var/www/cloudblocks/compiler/error.hpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/Saturno/firefoxos/busaoufjf.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

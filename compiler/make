@@ -1,0 +1,17 @@
+#!/bin/bash
+clear
+rm ./cloudblocks
+
+# running the lex generator 
+echo "------------------LEX------------------"
+lex --header-file=scanner.h -o scanner.c scanner.lex 
+
+#running the yacc, parser generator 
+#echo "-----------------YACC-------------------"
+#bison -d -v -o parser.cpp parser.bison 
+
+#compiling 
+echo "--------------Compilando---------------"
+g++ -std=c++11 -o cloudblocks main.cpp scanner.c error.cpp parser.cpp ast.cpp helper.cpp symbols_tables.cpp visitor.cpp semantic.cpp converter.cpp
+
+./cloudblocks teste.cloud
